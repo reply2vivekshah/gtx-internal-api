@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gtx"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "auth",
+    "packageName": "com.gtx",
+    "packageFolder": "com/gtx",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "N2FmOWQ4OTE0YmY2MzMyMTRkMmFlYzFhOGM4Y2NjNTE1M2VmNGQ2MTI3N2NlNzMzMzY0NmIwNWVkYmI4Y2Y3Yjc2MTdhNjg1ZDk2M2Y0ZTNiYzc1YWI3MTRmY2I2MWNkYTUxOGNlZGYyNGQ0ZDhjZDNkY2RmN2RjNjBhMjdmM2Y=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1608528624180,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
